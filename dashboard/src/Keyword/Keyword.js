@@ -67,8 +67,8 @@ const Keyword = () => {
 
     return (
         <div className='keywordContainer'>
-            <input className='urlInput' type='text' placeholder='URL' value={inputValue} onChange={handleChange}/>
-            <button className='analyzeBtn' onnClick={checkWords}>Analyze</button>
+            <input className='urlInput' type='text' placeholder='URL' name='Url Input' value={inputValue} onChange={handleChange} />
+            <button className='analyzeBtn' onClick={checkWords}>Analyze</button>
         </div>
     );
 }
