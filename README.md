@@ -1,6 +1,6 @@
 # SEO Tools
 
-Necessary libraries to instal
+Necessary libraries to install
 
 **Axios**
 
