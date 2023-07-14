@@ -1,7 +1,12 @@
+.keywordContainer {
+    margin: 20px;
+    text-align: center;
+}
+
 .urlInput {
     padding: 6px 12px;
     width: 300px;
-    height: 20px;
+    height: 35px;
 }
 
 .urlInput:focus-visible {
@@ -18,8 +23,4 @@
     border: none;
     height: 35px;
     width: 130px;
-}
-
-.keywordContainer {
-    margin: 10px;
 }
