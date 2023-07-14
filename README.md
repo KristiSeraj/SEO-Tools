@@ -1,6 +1,6 @@
-# Keyword Checker
+# SEO Tools
 
-Before using the Keyword component it is necessary to install these libraries
+Necessary libraries to instal
 
 **Axios**
 
