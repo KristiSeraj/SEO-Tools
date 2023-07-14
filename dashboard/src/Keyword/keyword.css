@@ -1,0 +1,25 @@
+.urlInput {
+    padding: 6px 12px;
+    width: 300px;
+    height: 20px;
+}
+
+.urlInput:focus-visible {
+    outline: 0px;
+}
+
+.analyzeBtn {
+    font-size: 16px;
+    padding: 6px 12px;
+    border-radius: 0px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0E75BE;
+    border: none;
+    height: 35px;
+    width: 130px;
+}
+
+.keywordContainer {
+    margin: 10px;
+}
